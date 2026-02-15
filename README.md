@@ -52,6 +52,7 @@ Here’s a quick look at the main files in the project:
 ## License
 
 This project is open source. You can find more details in the [LICENSE](LICENSE) file in the repository.
+Code from **https://github.com/ivysone/Will-you-be-my-Valentine-**
 
 ## Contact
 
